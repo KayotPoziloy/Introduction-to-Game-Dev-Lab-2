@@ -1,3 +1,3 @@
-# TestLab2
+# Lab2
 
 Developed with Unreal Engine 4
